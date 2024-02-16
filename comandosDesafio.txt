@@ -1,0 +1,8 @@
+Comandos utilizados em aplicação Node.js:
+
+npm install node
+npm start 
+npm init
+
+npm install express
+npm i google-spreadsheet --save

@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "@google-cloud/storage": "^7.7.0",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "google-auth-library": "^9.6.3",
+    "google-spreadsheet": "^4.1.1",
+    "googleapis": "^133.0.0",
+    "yarn": "^1.22.21"
+  },
+  "name": "desafio-tunts-rocks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  },
+  "description": ""
+}
